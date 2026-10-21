@@ -252,7 +252,7 @@ _Nota: la salida es ilustrativa. El programa muestra mensajes simulados; no repr
 
 ## 9. Integrantes del grupo
 
-- Integrante 1: [Nombre completo]
+- Integrante 1: Luis Alfonso Cardona Castillo
 - Integrante 2: [Nombre completo]
 - Integrante 3: [Nombre completo]
 - Integrante 4: [Nombre completo, si aplica]
